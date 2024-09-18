@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @random
-- 👀 web3 creator and artist
-- 🌱 py c sql html
+- 👋 Hi, I’m @simpl3
+- 👀 web3 dev / content creator
+- 🌱 py - c - sql - js - sol
 - 💞️ building on chain. 
-- 📫 
+- 📫 hail from philly
 
 <!---
 coder-zim/coder-zim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
